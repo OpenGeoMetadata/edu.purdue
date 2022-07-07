@@ -1,0 +1,42 @@
+{
+  "dct_title_s": "Wabash River Historical Maps and Imagery",
+  "dct_description_sm": [
+    "Some time in the late 1980s, Dr. Robert Miles, retired Purdue University Professor of Civil Engineering, found himself rifling through a Dumpster bin in Louisville, Kentucky. He was rescuing a set of historic atlases that had been unceremoniously thrown out and left for dead. Miles retrieved the unusually oversized monographs (~3x2') and donated them to the Purdue Libraries Map Collection. The collection is additionally curious in that the maps published in this set represent an early success in the developmental history of using aerial photography to generate topographic maps. More about the history behind these maps and their source can be found on the original materials page. In the summer of 2006, volunteers from the Wabash and Erie Canal Park scanned the first of 4 volumes (Wabash River, Terre Haute to Logansport) and asked if the Libraries could help provide public access to the resulting scans. "
+  ],
+  "schema_provider_s": "Purdue University",
+  "gbl_resourceClass_sm": [
+    "Websites"
+  ],
+  "dct_subject_sm": [
+    "Map collections"
+  ],
+  "dct_temporal_sm": [
+    "1929"
+  ],
+  "gbl_indexYear_im": [
+    "1929"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1929 TO 1929]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Wabash River, Indiana"
+  ],
+  "locn_geometry": "ENVELOPE(-87.5291,-86.2066,40.8009,39.3999)",
+  "dcat_bbox": "ENVELOPE(-87.5291,-86.2066,40.8009,39.3999)",
+  "dcat_centroid": "40.1004,-86.86785",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "dc8c18df-7d64-4ff4-a754-d18d0891187d"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "ArcGIS StoryMap",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\"}",
+  "id": "09d-01",
+  "dct_identifier_sm": [
+    "09d-01"
+  ],
+  "gbl_mdModified_dt": "2022-04-14T19:32:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}
