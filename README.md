@@ -1,6 +1,6 @@
 # edu.purdue
 
-####Geospatial metadata for Purdue University
+#### Geospatial metadata for Purdue University
 
 `metadata-version-1`: JSON metadata, [GeoBlacklight Metadata Schema 1.0](https://opengeometadata.org/docs/gbl-1.0).
 
