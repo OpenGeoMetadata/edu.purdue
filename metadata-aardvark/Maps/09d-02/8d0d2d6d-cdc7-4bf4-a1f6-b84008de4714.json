@@ -32,12 +32,12 @@
     "[2005 TO 2005]"
   ],
   "dct_spatial_sm": [
-    "West Lafayette, Indiana",
+    "Indiana--West Lafayette",
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.9358,-86.8848,40.4419,40.4114)",
-  "dcat_bbox": "ENVELOPE(-86.9358,-86.8848,40.4419,40.4114)",
-  "dcat_centroid": "40.426649999999995,-86.9103",
+  "locn_geometry": "POLYGON((-86.936 40.442, -86.885 40.442, -86.885 40.411, -86.936 40.411, -86.936 40.442))",
+  "dcat_bbox": "ENVELOPE(-86.936,-86.885,40.442,40.411)",
+  "dcat_centroid": "40.426500000000004,-86.91050000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +46,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mapsweb.lib.purdue.edu/datasets/HistoricCampus/2005.tif.zip\",\"http://schema.org/url\":\"http://collections.lib.purdue.edu/campus\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"http://collections.lib.purdue.edu/campus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://mapsweb.lib.purdue.edu/datasets/HistoricCampus/2005.tif.zip\",\"label\":\"GeoTIFF\"}]}",
   "id": "8d0d2d6d-cdc7-4bf4-a1f6-b84008de4714",
   "dct_identifier_sm": [
     "8d0d2d6d-cdc7-4bf4-a1f6-b84008de4714"
   ],
-  "gbl_mdModified_dt": "2022-05-20T14:55:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

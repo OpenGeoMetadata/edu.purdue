@@ -8,7 +8,7 @@
   ],
   "dct_creator_sm": [
     "Brock & Weymouth Inc.",
-    "United States Engineer Office"
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
     "Purdue University Libraries"
@@ -24,8 +24,7 @@
     "Imagery"
   ],
   "dcat_keyword_sm": [
-    "Topography",
-    "Purdue Georeferenced Imagery"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -39,12 +38,12 @@
   ],
   "dct_spatial_sm": [
     "Indiana",
-    "Tippecano County, Indiana",
-    "Wabash River, Indiana"
+    "Indiana--Tippecano County",
+    "Indiana--Wabash River"
   ],
-  "locn_geometry": "ENVELOPE(-87.1262,-86.975,40.4466,40.3673)",
-  "dcat_bbox": "ENVELOPE(-87.1262,-86.975,40.4466,40.3673)",
-  "dcat_centroid": "40.406949999999995,-87.0506",
+  "locn_geometry": "POLYGON((-87.126 40.447, -86.975 40.447, -86.975 40.367, -87.126 40.367, -87.126 40.447))",
+  "dcat_bbox": "ENVELOPE(-87.126,-86.975,40.447,40.367)",
+  "dcat_centroid": "40.407,-87.0505",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabash_topo_30.tif.zip\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/wabashtopo/ImageServer\",\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\"}",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/wabashtopo/ImageServer\",\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabash_topo_30.tif.zip\",\"label\":\"GeoTIFF\"}]}",
   "id": "d41bc66d-b437-48ee-a690-1d0395415115",
   "dct_identifier_sm": [
     "d41bc66d-b437-48ee-a690-1d0395415115"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

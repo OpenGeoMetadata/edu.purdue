@@ -8,7 +8,7 @@
   ],
   "dct_creator_sm": [
     "Brock & Weymouth Inc.",
-    "United States Engineer Office"
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
     "Purdue University Libraries"
@@ -24,8 +24,7 @@
     "Imagery"
   ],
   "dcat_keyword_sm": [
-    "Topography",
-    "Purdue Georeferenced Imagery"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -40,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-86.7922,-86.6408,40.6095,40.5306)",
-  "dcat_bbox": "ENVELOPE(-86.7922,-86.6408,40.6095,40.5306)",
-  "dcat_centroid": "40.570049999999995,-86.7165",
+  "locn_geometry": "POLYGON((-86.792 40.609, -86.641 40.609, -86.641 40.531, -86.792 40.531, -86.792 40.609))",
+  "dcat_bbox": "ENVELOPE(-86.792,-86.641,40.609,40.531)",
+  "dcat_centroid": "40.57,-86.7165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,11 +51,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabash_topo_34.tif.zip\",\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/wabashtopo/ImageServer\",\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\"}",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#ImageMapLayer\":\"https://mapsweb.lib.purdue.edu/arcgis/rest/services/Purdue/wabashtopo/ImageServer\",\"http://schema.org/url\":\"https://mapsweb.lib.purdue.edu/wabashriver/\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://mapsweb.lib.purdue.edu/datasets/Wabash1929/wabash_topo_34.tif.zip\",\"label\":\"GeoTIFF\"}]}",
   "id": "550a1624-5b21-45d3-8f63-7906fa64de41",
   "dct_identifier_sm": [
     "550a1624-5b21-45d3-8f63-7906fa64de41"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:32Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   ],
   "dct_creator_sm": [
     "Brock & Weymouth Inc.",
-    "United States Engineer Office"
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
     "Purdue University Libraries"
@@ -24,8 +24,7 @@
     "Imagery"
   ],
   "dcat_keyword_sm": [
-    "Topography",
-    "Purdue Georeferenced Imagery"
+    "Topography"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -40,9 +39,9 @@
   "dct_spatial_sm": [
     "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87.5291,-86.2066,40.8009,39.3999)",
-  "dcat_bbox": "ENVELOPE(-87.5291,-86.2066,40.8009,39.3999)",
-  "dcat_centroid": "40.1004,-86.86785",
+  "locn_geometry": "POLYGON((-87.529 40.801, -86.207 40.801, -86.207 39.400, -87.529 39.400, -87.529 40.801))",
+  "dcat_bbox": "ENVELOPE(-87.529,-86.207,40.801,39.400)",
+  "dcat_centroid": "40.1005,-86.868",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +55,5 @@
   "dct_identifier_sm": [
     "88cc9b19-3294-4da9-9edd-775c81fb1c59"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }
